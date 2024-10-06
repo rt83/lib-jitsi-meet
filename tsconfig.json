@@ -24,5 +24,6 @@
     "index.js",
     "lib-jitsi-meet.*.js",
     "webpack*.js",
+    "_dist-copy.js"
   ]
 }

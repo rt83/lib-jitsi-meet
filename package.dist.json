@@ -1,0 +1,11 @@
+{
+    "name": "lib-jitsi-meet",
+    "version": "0.0.1",
+    "sideEffects": false,
+    "browser": "./umd/lib-jitsi-meet.min.js",
+    "module": "./esm/JitsiMeetJS.js",
+    "typings": "./esm/JitsiMeetJS.d.ts",
+    "dependencies": {
+        "tslib": "^2.3.0"
+    }
+  }
